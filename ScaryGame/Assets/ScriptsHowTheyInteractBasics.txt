@@ -1,0 +1,18 @@
+Scripts and how they interact with each other. 
+
+1. For interacting with the door. The door is a rigidbody object that is all. If you make a cube and attach a Component>Physics>RigidBody to it then you can manipulate that as well. Alot you can do with that basic function.DragRigidbodyScript is applied to your First Person Controller.
+
+2. Note System refer to the NoteSystem README in the NoteSystem folder in the Project view.
+
+3. Audio Descriptions. Audio Descriptions script goes on your First Person Controller. The script titled "SoundScript" apply to your object. Drag whatever audio you want to the Sound FX spot of that script when it has been applied to an object and bam it works.
+
+4. Flashlight *UPDATED* The flashlight now you have to pick up the flashlight to have it, just collide your character with the flashlight object on the floor and then hit the F key to turn it off and on and also sounds for doing so have been added. 
+
+5. I applied a mouseLOCK and HideMouseCursor script to the First Person Controller. This lock the cursor to the middle of the screen and makes it so you cant see it.
+
+6. Doors, now you can have locked and unlocked doors and if the door is locked you must have a specific key to unlock it. Complete with sound etc. 
+If you dont want the door to be locked just remove the key object from the door itself aka leave it blank and it will stay unlocked. 
+
+
+Click on the objects in this sample scene, look at the scripts, experiment, learn about it that way as well. But most of all ENJOY and have FUN!
+

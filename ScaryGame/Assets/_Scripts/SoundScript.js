@@ -1,0 +1,1 @@
+var soundFX: AudioClip; // select the sound for each object

@@ -1,0 +1,79 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1247]
+    Renderer: AMD Radeon HD 7800 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Input Received!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Options Not Implemented!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Input Received!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Play Button hit!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 0.373733 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 1.562736 ms (FindLiveObjects: 0.014410 ms CreateObjectMapping: 0.010394 ms MarkObjects: 0.082920 ms  DeleteObjects: 0.795188 ms)
+
+Platform assembly: C:\Users\GTX2\Dropbox\Winter 2014\CST328 (Computer Graphics)\Labs\Lab5_FinalProject\Following\derpderpderp_Data\Managed\Boo.Lang.dll (this message is harmless)
+TeleportEnemyNew!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Player is out of health!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 8.315934 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 141.
+Total: 15.483498 ms (FindLiveObjects: 0.013938 ms CreateObjectMapping: 0.019371 ms MarkObjects: 0.082448 ms  DeleteObjects: 14.118968 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuMouseLookScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Input Received!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 0.696912 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 1.733775 ms (FindLiveObjects: 0.015591 ms CreateObjectMapping: 0.021025 ms MarkObjects: 0.112214 ms  DeleteObjects: 0.117411 ms)
+
+Input Received!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Quit does not work in Debugger! beware!
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
