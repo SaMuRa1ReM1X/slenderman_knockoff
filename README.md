@@ -1,2 +1,2 @@
 # slenderman_knockoff
-CST352 Advanced GUI Project (2013)
+CST328 Advanced GUI Project (2013)
